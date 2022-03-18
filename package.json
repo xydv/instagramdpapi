@@ -1,0 +1,24 @@
+{
+  "name": "instagramdpapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icancodebeauty/instagramdpapi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icancodebeauty/instagramdpapi/issues"
+  },
+  "homepage": "https://github.com/icancodebeauty/instagramdpapi#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "instagramdp": "^1.0.2"
+  }
+}
